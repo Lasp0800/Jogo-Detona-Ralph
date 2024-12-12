@@ -1,0 +1,46 @@
+main {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url("https://www.shutterstock.com/image-vector/pixel-red-brick-wall-seamless-600nw-1799717920.jpg");
+}
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    height: 90px;
+    width: 100%;
+    background-color: #000000;
+    color: #ffffff;
+    border-bottom: 5px solid #ffd700;
+}
+
+.painel{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.square{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    background-color: #7fffd4;
+}
+
+.enemy{
+    background-image: url("https://s2-techtudo.glbimg.com/08G7vkw46j9eYe4Cd1vhFRbH_zQ=/0x0:300x444/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/E/T/2l8H0PTCaFbYwGBn5CmQ/2012-04-18-dwetona300.jpg");
+    background-size: cover;
+}
+
+.menu-lives{
+    display: flex;
+    align-items: center;
+}
+
+.number{
+    margin-top: 10px;
+}
