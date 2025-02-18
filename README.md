@@ -2,6 +2,9 @@
 
 Este repositório foi criado para compartilhar minha experiência adquirida no bootcamp da DIO.me com ferramentas para front-end: 
 
+![image](https://github.com/user-attachments/assets/ed88ba09-452e-4da1-9f1a-609ac8c85a31)
+
+
 🔹[Descrição do projeto](#descrição-do-projeto)
 
 🔹[Funcionalidades](#funcionalidades)
